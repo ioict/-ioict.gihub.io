@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+欢迎来到 Custlo 的博客，不过很可惜的是，这个博客还未搭建好。
 
-You can use the [editor on GitHub](https://github.com/ioict/ioict.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[$\color{Turquoise}\rm\quad \quad \quad \quad \quad \quad\quad  \quad \quad\quad\quad\quad\quad\quad\quad\quad「instruction」$](https://www.luogu.com.cn/paste/e7lrknz1)
 
-### Markdown
+$$\rm「Oh \ please \ don't \ let \ me \ die」$$
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+$$\rm「Waiting \ for \ your \ touch」$$
 
-```markdown
-Syntax highlighted code block
+$$\rm「No, \ don't \ give \ up \ on \ life」$$
 
-# Header 1
-## Header 2
-### Header 3
+$$\rm「This \ endless \ dead \ end」$$
 
-- Bulleted
-- List
+$$\rm「狂った時計 刻む命」$$
 
-1. Numbered
-2. List
+$$\rm「こぼれてく記憶の砂」$$
 
-**Bold** and _Italic_ and `Code` text
+$$\rm「芽生えた 思いまで」$$
 
-[Link](url) and ![Image](src)
-```
+$$\rm「ねえ こんなに呆気なく」$$
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+$$\rm「消えてしまうの」$$
 
-### Jekyll Themes
+$$\rm「I \ wish \ I \ was \ there...」$$
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ioict/ioict.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+$$\rm「Oh \ please \ don't \ let \ me \ die」$$
 
-### Support or Contact
+$$\rm「Waiting \ for \ your \ touch」$$
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+$$\rm「二度と なにも 失くさぬように」$$
+
+$$\rm「私を忘れて 始めて\ "Restart!"」$$
+
+$$\rm「No, \ don't \ give \ up \ on  \ life」$$
+
+$$\rm「This \ endless \ dead \ end」$$
+
+$$\rm「君を砕くこの悲しみが」$$
+
+$$\rm「いつか终わりますように」$$
+
+$$\rm「For \ now \ I'll \ see \ you \ off」$$
+
+$$\rm「My \ time \ is \ spinning \ around」$$
+
+$$\rm「Your \ deep \ black \ eyes」$$
+
+$$\rm「I \ forgot \ what \ time \ it \ is」$$
+
+$$\rm「And \ our \ memories \ are \ gone...?」$$
+
+$$\rm「甘い香り放つ」$$
+
+$$\rm「追忆と いう名の罠」$$
+
+$$\rm「诱われ 囚われ」$$
+
+$$\rm「なぜ 抗えもせずまた」$$
+
+$$\rm「溺れてしまうの」$$
